@@ -34,6 +34,7 @@ https://edu.veshk.ru/online-course-strategiya]]>
 <!--  Можно указать несколько наборов через запятую  -->
 <!--  Общая цена курса  -->
 <price>3000</price>
+ <currencyId>RUR</currencyId>
 <!--  Сроки курсов  -->
 <param name="Продолжительность" unit="месяц">3</param>
 <!--  Программа обучения  -->
